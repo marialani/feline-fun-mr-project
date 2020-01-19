@@ -237,7 +237,9 @@ html {
     font-size: 1.5rem;
     display: block;
     padding: 4px;
-    border-radius: 8px;
+    margin: 0.5rem 3rem 3rem 3rem;
+    height: 5rem;
+    border-radius: 50%;
     box-shadow: 0px 9px 0px rgba(219,31,5,1), 0px 9px 25px rgba(0,0,0,.7);
     min-width: auto;
     text-align: center;
@@ -245,15 +247,16 @@ html {
     transition: all .1s ease;
     padding: 0 2.5rem;
   }
-
-  /* .greyed {
-    background-color: rgb(146, 134, 127);
-  } */
   
   .playBtn:active {
       box-shadow: 0px 3px 0px rgba(219,31,5,1), 0px 3px 6px rgba(0,0,0,.9);
       position: relative;
       top: 6px;
+  }
+
+  .playBtn:disabled {
+    background-color: rgb(155, 154, 154);
+    box-shadow: 0px 3px 0px rgb(95, 94, 94), 0px 3px 6px rgba(0,0,0,.9);
   }
 
   body { background-image: url(http://subtlepatterns.com/patterns/ricepaper.png) }
@@ -268,7 +271,9 @@ html {
   font-size: 1.5rem;
   display: block;
   padding: 4px;
-  border-radius: 8px;
+  margin: 0.5rem 3rem 3rem 3rem;
+  height: 5rem;
+  border-radius: 50%;
   box-shadow: 0px 9px 0px rgba(219,31,5,1), 0px 9px 25px rgba(0,0,0,.7);
 	min-width: auto;
   text-align: center;
@@ -283,7 +288,44 @@ html {
     top: 6px;
 }
 
+.feedBtn:disabled {
+  background-color: rgb(155, 154, 154);
+  box-shadow: 0px 3px 0px rgb(95, 94, 94), 0px 3px 6px rgba(0,0,0,.9);
+}
+
+.vetBtn {
+  position: relative;
+  color: rgba(255,255,255,1);
+  text-decoration: none;
+  background-color: rgba(219,87,5,1);
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: 700;
+  font-size: 1.5rem;
+  display: block;
+  padding: 4px;
+  margin: 0.5rem 3rem 3rem 3rem;
+  height: 5rem;
+  border-radius: 50%;
+  box-shadow: 0px 9px 0px rgba(219,31,5,1), 0px 9px 25px rgba(0,0,0,.7);
+	min-width: auto;
+  text-align: center;
+  outline: none;
+  transition: all .1s ease;
+  padding: 0 2.5rem;
+}
+
+.vetBtn:active {
+    box-shadow: 0px 3px 0px rgba(219,31,5,1), 0px 3px 6px rgba(0,0,0,.9);
+    position: relative;
+    top: 6px;
+}
+
+.vetBtn:disabled {
+  background-color: rgb(155, 154, 154);
+  box-shadow: 0px 3px 0px rgb(95, 94, 94), 0px 3px 6px rgba(0,0,0,.9);
+}
+
 .btnFlex {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
 }
