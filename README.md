@@ -1,8 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and has been hosted on netlify. [![Netlify Status](https://api.netlify.com/api/v1/badges/d5eb7847-384b-4fb6-9d7f-5805e6f70511/deploy-status)](https://app.netlify.com/sites/feline-fun-project/deploys)
-# Feline Fun Game
+
+--- 
+
+# Feline Fun Game :smile_cat:
 
 ![](https://media.giphy.com/media/l2JJDdD7cv4xdGGis/giphy.gif)
+
 by Maria and Reggie
+
+---
 
 After an intensive few days learning the basics of React, Reggie and I were tasked with building a small project to exhibit everything we had learned thus far. This repo is forked from our original project, I hope you enjoy what we came up with!
 
@@ -45,6 +51,6 @@ Our user would:
 
 ---
 
-# Thanks for reading!
+## Thanks for reading!
 
 ![](https://media.giphy.com/media/bTvCkBTQDIPyE/giphy.gif)
