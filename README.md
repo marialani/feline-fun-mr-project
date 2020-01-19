@@ -6,8 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![](https://media.giphy.com/media/l2JJDdD7cv4xdGGis/giphy.gif)
 
-by Maria and Reggie
-
 ---
 
 After an intensive few days learning the basics of React, Reggie and I were tasked with building a small project to exhibit everything we had learned thus far. This repo is forked from our original project, I hope you enjoy what we came up with!
