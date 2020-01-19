@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and has been hosted on netlify. [![Netlify Status](https://api.netlify.com/api/v1/badges/d5eb7847-384b-4fb6-9d7f-5805e6f70511/deploy-status)](https://app.netlify.com/sites/feline-fun-project/deploys)
 
 ## Available Scripts
 
