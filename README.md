@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Feline Fun Game :smile_cat:
 
-![](https://media.giphy.com/media/l2JJDdD7cv4xdGGis/giphy.gif)
+![](https://media.giphy.com/media/l2JJDdD7cv4xdGGis/giphy.gif=400)
 
 ---
 
